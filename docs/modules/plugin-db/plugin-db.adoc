@@ -1,0 +1,3 @@
+= Plugin DB
+
+The plugin is intendet to work with releation databases.
